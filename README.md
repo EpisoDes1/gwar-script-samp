@@ -2,8 +2,8 @@
 Gang War Script For Samp Server
 Some Plugins Needed dini - sscanf - gwar
 Create Simple Server.cfg
- _________________________SerVer CFG__________________________________
- echo Executing Server Config...
+
+#echo Executing Server Config...
 
 lanmode 0
 
